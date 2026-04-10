@@ -3,7 +3,7 @@
 A Python-based simulation of CPU scheduling algorithms for the MINIOS project. This program demonstrates three fundamental CPU scheduling techniques used in operating systems to manage process execution.
 
 ## Submitted to
-**Mrs. Angelika S. Balagot**
+**Ms. Angelika S. Balagot**
 
 ## Developers
 - Cara, Jedric Ray
