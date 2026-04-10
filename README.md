@@ -6,13 +6,11 @@ A Python-based simulation of CPU scheduling algorithms for the MINIOS project. T
 **Mrs. Angelika S. Balagot**
 
 ## Developers
-- Cara
-- Jedric Ray Flores
-- Gino Patarata
-- John Paul Pineda
-- Charles Vernard
-- Valdez
-- Kian
+- Cara, Jedric Ray
+- Flores, Gino Angelo
+- Patarata, John Paul
+- Pineda, Charles Vernard
+- Valdez, Kian
 
 ## Project Overview
 
