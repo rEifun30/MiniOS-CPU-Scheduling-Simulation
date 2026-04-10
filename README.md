@@ -16,11 +16,15 @@ A Python-based simulation of CPU scheduling algorithms for the MINIOS project. T
 
 This simulator implements three classic CPU scheduling algorithms:
 
+## Scheduling Algorithms
+
 ### 1. **FCFS (First Come, First Served)**
 - **Type**: Non-preemptive
 - **Description**: Processes are executed in the order they arrive in the ready queue
 - **Advantages**: Simple and easy to implement
 - **Disadvantages**: May cause convoy effect (short processes wait for long ones)
+
+![FCFS Gantt Chart](assests/pictures/facfs.jpg)
 
 ### 2. **SJF (Shortest Job First)**
 - **Type**: Non-preemptive
@@ -28,11 +32,15 @@ This simulator implements three classic CPU scheduling algorithms:
 - **Advantages**: Optimal average waiting time
 - **Disadvantages**: Requires knowledge of future burst times; may cause starvation of longer processes
 
+![SJF Gantt Chart](assests/pictures/sjn.jpg)
+
 ### 3. **Round Robin**
 - **Type**: Preemptive
 - **Description**: Each process gets a fixed time slice (time quantum) for execution. Processes are executed in circular order
 - **Advantages**: Fair allocation of CPU; good response time
 - **Disadvantages**: Performance depends on time quantum size
+
+![Round Robin Gantt Chart](assests/pictures/roundrobin.jpg)
 
 ## Features
 
