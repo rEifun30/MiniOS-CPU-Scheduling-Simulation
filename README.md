@@ -107,7 +107,6 @@ Enter Burst Time: 8
 ## Course Information
 
 **Course**: INTECH 2201
-**Institution**: MINIOS CPU Scheduling Project
 
 ## Notes
 
